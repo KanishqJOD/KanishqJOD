@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kanishqqtahalyanii@gmail.com**
 
-- ⚡ Fun fact **I am a problem solver—so good that I’ve turned working smarter, not harder into an art form. I believe in finding the simplest solution... preferably from the comfort of my couch.**
+- ⚡ Fun fact **I am a problem solver,so good that I’ve turned working smarter, not harder into an art form. I believe in finding the simplest solution... preferably from the comfort of my couch.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
