@@ -46,11 +46,13 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda-000?&logo=Anaconda)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishq24&show_icons=true&locale=en&layout=compact" alt="kanishq24" /></p>
+## 📈 GitHub Stats
+<div>
+  <img src="https://streak-stats.demolab.com?user=KanishqJOD&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KanishqJOD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishq24&show_icons=true&locale=en" alt="kanishq24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishq24&" alt="kanishq24" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KanishqJOD&limit=5&theme=flat&combine_all_yearly_contributions=true)
