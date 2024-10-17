@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Kanishq Tahalyani</h1>
-<h3 align="center">A passionate Competitve Programmer from India</h3>
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=2000&pause=800&color=FFD700&center=false&vCenter=false&random=false&width=501&height=40&size=28&lines=Competitive+Programmer;FULL+STACK+DEVELOPER;Dsa+Enthusiast)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
