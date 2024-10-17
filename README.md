@@ -56,10 +56,12 @@
 ![](https://github-contributor-stats.vercel.app/api?username=KanishqJOD&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ## 🏆 Achievements and Extracurriculars
--Earned 7 Badges for solving problems on LeetCode.
--Global Rank 102 in Starters 126 Division 4 (Rated) at CodeChef contest.
--Global Rank 78 in Starters 133 Division 3 (Rated) at CodeChef contest.
--Secured First Position in "Web Relay" organized by Google DSC, IIIT Kota during Tech Summit.
--First Place in "Summit League" Esports Tournament organized by Clutch, IIIT Kota.
--500+ LeetCode Problems Solved including MySQL and Data Structures problems.
--125+ CodeChef Problems Solved, Max Rating: 1639 (3 Star).
+
+- Earned **7 Badges** for solving problems on LeetCode.
+- **Global Rank 102** in Starters 126 Division 4 (Rated) at CodeChef contest.
+- **Global Rank 78** in Starters 133 Division 3 (Rated) at CodeChef contest.
+- Secured **First Position** in "Web Relay" organized by Google DSC, IIIT Kota during Tech Summit.
+- **First Place** in "Summit League" Esports Tournament organized by Clutch, IIIT Kota.
+- **500+ LeetCode Problems Solved** including MySQL and Data Structures problems.
+- **125+ CodeChef Problems Solved**, Max Rating: 1639 (3 Star).
+
