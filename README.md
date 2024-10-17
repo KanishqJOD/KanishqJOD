@@ -65,3 +65,10 @@
 - **500+ LeetCode Problems Solved** including MySQL and Data Structures problems.
 - **125+ CodeChef Problems Solved**, Max Rating: 1639 (3 Star).
 
+
+## 💬 Always Remebering
+**Why i've Started**
+
+##
+
+**Thank you for visiting my profile. Feel free to reach out!**
