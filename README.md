@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kanishq Tahalyani</h1>
+<h1 align="center">Hello there 👋, I'm Kanishq Tahalyani</h1>
 <h3 align="center">A passionate Competitve Programmer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
-- 🔭 I’m currently solving Dsa Problems **Dsa-grind**
+- 🔭 I’m currently solving Dsa Problems 
 
 - 🌱 I’m currently learning **NextJs**
 
@@ -11,13 +11,11 @@
 
 - 📫 How to reach me **kanishqqtahalyanii@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/DeLL/Downloads/Kanishq_Resume_Internship%20(1).pdf](file:///C:/Users/DeLL/Downloads/Kanishq_Resume_Internship%20(1).pdf)
-
 - ⚡ Fun fact **I am a problem solver—so good that I’ve turned working smarter, not harder into an art form. I believe in finding the simplest solution... preferably from the comfort of my couch.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kanishq tahalyani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishq tahalyani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kanishq-tahalyani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishq tahalyani" height="30" width="40" /></a>
 <a href="https://instagram.com/kanishq_tahalyani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanishq_tahalyani_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kanishq_3eye" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kanishq_3eye" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kanishq_3eye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kanishq_3eye" height="30" width="40" /></a>
