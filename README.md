@@ -66,8 +66,8 @@
 - **125+ CodeChef Problems Solved**, Max Rating: 1639 (3 Star).
 
 
-## 💬 Always Remebering
-**Why i've Started**
+## 💬 Always Remeber
+**Why you have Started**
 
 ##
 
